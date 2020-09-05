@@ -1,5 +1,8 @@
 \babel@toc {spanish}{}
 \contentsline {section}{\numberline {1}Introducción}{3}{section.1}%
 \contentsline {section}{\numberline {2}Definición de la memoria del computador}{4}{section.2}%
-\contentsline {section}{\numberline {3}Conclusión}{4}{section.3}%
+\contentsline {section}{\numberline {3}Tipos de memoria}{5}{section.3}%
+\contentsline {section}{\numberline {4}Como se gestiona la memoria en un computador}{6}{section.4}%
+\contentsline {section}{\numberline {5}¿Qué hace que una memoria sea más rápida que otra? ¿Por qué esto es importante?}{6}{section.5}%
+\contentsline {section}{\numberline {6}Conclusión}{6}{section.6}%
 \contentsfinish 

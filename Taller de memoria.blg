@@ -1,51 +1,50 @@
 This is BibTeX, Version 0.99d
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Taller de memoria.aux
-Reallocating 'name_of_file' (item size: 1) to 4 items.
-The style file: acm.bst
+Reallocating 'name_of_file' (item size: 1) to 8 items.
+The style file: apalike.bst
 Reallocating 'name_of_file' (item size: 1) to 11 items.
 Database file #1: references.bib
-Warning--entry type for "knuthwebsite" isn't style-file defined
---line 24 of file references.bib
-You've used 2 entries,
-            2253 wiz_defined-function locations,
-            536 strings with 4088 characters,
-and the built_in function-call counts, 454 in all, are:
-= -- 39
-> -- 14
-< -- 0
-+ -- 7
-- -- 4
+Warning--empty publisher in definicion
+You've used 1 entry,
+            1935 wiz_defined-function locations,
+            475 strings with 3763 characters,
+and the built_in function-call counts, 288 in all, are:
+= -- 23
+> -- 7
+< -- 1
++ -- 2
+- -- 2
 * -- 20
-:= -- 81
-add.period$ -- 6
-call.type$ -- 2
-change.case$ -- 7
-chr.to.int$ -- 0
+:= -- 56
+add.period$ -- 2
+call.type$ -- 1
+change.case$ -- 5
+chr.to.int$ -- 1
 cite$ -- 2
-duplicate$ -- 21
-empty$ -- 47
-format.name$ -- 4
-if$ -- 95
-int.to.chr$ -- 0
-int.to.str$ -- 2
+duplicate$ -- 14
+empty$ -- 24
+format.name$ -- 3
+if$ -- 53
+int.to.chr$ -- 1
+int.to.str$ -- 0
 missing$ -- 2
-newline$ -- 12
-num.names$ -- 4
-pop$ -- 14
+newline$ -- 7
+num.names$ -- 3
+pop$ -- 9
 preamble$ -- 1
 purify$ -- 6
 quote$ -- 0
-skip$ -- 16
+skip$ -- 11
 stack$ -- 0
-substring$ -- 11
-swap$ -- 4
+substring$ -- 12
+swap$ -- 1
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 6
-warning$ -- 0
-while$ -- 4
-width$ -- 3
-write$ -- 20
+type$ -- 4
+warning$ -- 1
+while$ -- 2
+width$ -- 0
+write$ -- 12
 (There was 1 warning)

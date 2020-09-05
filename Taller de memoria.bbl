@@ -1,12 +1,7 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{}
 
-\bibitem{dirac}
-{\sc Dirac, P. A.~M.}
-\newblock {\em The Principles of Quantum Mechanics}.
-\newblock International series of monographs on physics. Clarendon Press, 1981.
-
-\bibitem{knuthwebsite}
-{\sc Knuth, D.}
-\newblock Knuth: Computers and typesetting.
+\bibitem[Salgado, 2017]{definicion}
+Salgado, M. J.~G. (2017).
+\newblock {\em Memoria de una Computadora}.
 
 \end{thebibliography}
