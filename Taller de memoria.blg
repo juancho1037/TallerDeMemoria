@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Taller de memoria.aux
+Reallocating 'name_of_file' (item size: 1) to 4 items.
+The style file: acm.bst
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+Database file #1: references.bib
+Warning--entry type for "knuthwebsite" isn't style-file defined
+--line 24 of file references.bib
+You've used 2 entries,
+            2253 wiz_defined-function locations,
+            536 strings with 4088 characters,
+and the built_in function-call counts, 454 in all, are:
+= -- 39
+> -- 14
+< -- 0
++ -- 7
+- -- 4
+* -- 20
+:= -- 81
+add.period$ -- 6
+call.type$ -- 2
+change.case$ -- 7
+chr.to.int$ -- 0
+cite$ -- 2
+duplicate$ -- 21
+empty$ -- 47
+format.name$ -- 4
+if$ -- 95
+int.to.chr$ -- 0
+int.to.str$ -- 2
+missing$ -- 2
+newline$ -- 12
+num.names$ -- 4
+pop$ -- 14
+preamble$ -- 1
+purify$ -- 6
+quote$ -- 0
+skip$ -- 16
+stack$ -- 0
+substring$ -- 11
+swap$ -- 4
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 6
+warning$ -- 0
+while$ -- 4
+width$ -- 3
+write$ -- 20
+(There was 1 warning)
