@@ -1,7 +1,52 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{1}
 
-\bibitem[Salgado, 2017]{definicion}
-Salgado, M. J.~G. (2017).
-\newblock {\em Memoria de una Computadora}.
+\bibitem{primera}
+{Yanneth Gutiérrez Sánchez}.
+\newblock
+  \texttt{https://sites.google.com/site/sisoper1/home/gestion-de-memoria#:~:text=La%20parte%20del%20sistema%20operativo,necesiten%20y%20liber%C3%A1ndola%20cuando%20terminen},
+  14 de Abril de 2013.
+
+\bibitem{segunda}
+{Ricardo Trejo Ramírez}.
+\newblock \texttt{https://www.monografias.com/trabajos10/gesmem/gesmem.shtml},
+  7 de Noviembre de 2002.
+
+\bibitem{tercera}
+{Isidro Rios}.
+\newblock
+  \texttt{https://www.muycomputer.com/2018/11/04/memoria-ram-que-es-recomendaciones/r},
+  4 de Noviembre de 2018.
+
+\bibitem{cuarta}
+{Rubén Velasco}.
+\newblock
+  \texttt{https://hardzone.es/reportajes/comparativas/latencia-velocidad-ram-jugar/},
+  11 de agosto de 2020.
+
+\bibitem{quinta}
+{Maria Jose Gallegos Salgado}.
+\newblock
+  \texttt{https://es.slideshare.net/MaryJoseSg/memoria-de-una-computadora}, 10
+  de marzo de 2017.
+
+\bibitem{sexta}
+{María Estela Raffino}.
+\newblock \texttt{https://concepto.de/memoria-cache/#ixzz6XCWM3kiX}, 30 de
+  junio de 2020.
+
+\bibitem{septima}
+{Universidad de Marte}.
+\newblock \texttt{www.marte.mar}, 22 de {A}gosto de 2013.
+
+\bibitem{octava}
+{Uruguay OC}.
+\newblock
+  \texttt{https://uruguayoc.com/2018/03/18/que-es-el-cache-l1-l2-y-l3-en-los-procesadores/},
+  18 marzo de 2018.
+
+\bibitem{novena}
+{YÚBAL FM}.
+\newblock \texttt{https://www.xataka.com/basics/hdd-vs-ssd}, 1 de Octubre de
+  2018.
 
 \end{thebibliography}

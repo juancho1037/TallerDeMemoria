@@ -1,50 +1,67 @@
 This is BibTeX, Version 0.99d
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Taller de memoria.aux
-Reallocating 'name_of_file' (item size: 1) to 8 items.
-The style file: apalike.bst
-Reallocating 'name_of_file' (item size: 1) to 11 items.
-Database file #1: references.bib
-Warning--empty publisher in definicion
-You've used 1 entry,
-            1935 wiz_defined-function locations,
-            475 strings with 3763 characters,
-and the built_in function-call counts, 288 in all, are:
-= -- 23
-> -- 7
-< -- 1
-+ -- 2
-- -- 2
-* -- 20
-:= -- 56
-add.period$ -- 2
-call.type$ -- 1
-change.case$ -- 5
-chr.to.int$ -- 1
-cite$ -- 2
-duplicate$ -- 14
-empty$ -- 24
-format.name$ -- 3
-if$ -- 53
-int.to.chr$ -- 1
-int.to.str$ -- 0
-missing$ -- 2
-newline$ -- 7
-num.names$ -- 3
-pop$ -- 9
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: unsrt.bst
+Reallocating 'name_of_file' (item size: 1) to 7 items.
+Database file #1: biblio.bib
+Warning--entry type for "primera" isn't style-file defined
+--line 1 of file biblio.bib
+Warning--entry type for "segunda" isn't style-file defined
+--line 7 of file biblio.bib
+Warning--entry type for "tercera" isn't style-file defined
+--line 13 of file biblio.bib
+Warning--entry type for "cuarta" isn't style-file defined
+--line 18 of file biblio.bib
+Warning--entry type for "quinta" isn't style-file defined
+--line 24 of file biblio.bib
+Warning--entry type for "sexta" isn't style-file defined
+--line 30 of file biblio.bib
+Warning--entry type for "septima" isn't style-file defined
+--line 36 of file biblio.bib
+Warning--entry type for "octava" isn't style-file defined
+--line 42 of file biblio.bib
+Warning--entry type for "novena" isn't style-file defined
+--line 48 of file biblio.bib
+You've used 9 entries,
+            1791 wiz_defined-function locations,
+            481 strings with 4646 characters,
+and the built_in function-call counts, 1082 in all, are:
+= -- 72
+> -- 36
+< -- 0
++ -- 18
+- -- 9
+* -- 11
+:= -- 162
+add.period$ -- 18
+call.type$ -- 9
+change.case$ -- 9
+chr.to.int$ -- 0
+cite$ -- 9
+duplicate$ -- 45
+empty$ -- 163
+format.name$ -- 9
+if$ -- 253
+int.to.chr$ -- 0
+int.to.str$ -- 9
+missing$ -- 0
+newline$ -- 39
+num.names$ -- 9
+pop$ -- 63
 preamble$ -- 1
-purify$ -- 6
+purify$ -- 0
 quote$ -- 0
-skip$ -- 11
+skip$ -- 36
 stack$ -- 0
-substring$ -- 12
-swap$ -- 1
+substring$ -- 0
+swap$ -- 9
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 4
-warning$ -- 1
-while$ -- 2
-width$ -- 0
-write$ -- 12
-(There was 1 warning)
+type$ -- 0
+warning$ -- 0
+while$ -- 9
+width$ -- 10
+write$ -- 74
+(There were 9 warnings)
